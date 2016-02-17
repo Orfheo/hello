@@ -9,7 +9,7 @@
 # Requires: see Modulefile
 #
 # Sample Usage: test test test test test
-#  now it works!!!! test test
+#  now it works!!!! test test test
 #
 class hello {
 
