@@ -8,7 +8,7 @@
 #
 # Requires: see Modulefile
 #
-# Sample Usage: test
+# Sample Usage: test test
 #
 class hello {
 
